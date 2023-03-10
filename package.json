@@ -1,0 +1,23 @@
+{
+  "name": "my_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serpensmaru/my_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serpensmaru/my_npm/issues"
+  },
+  "homepage": "https://github.com/serpensmaru/my_npm#readme",
+  "dependencies": {
+    "@serpensmaru/ajs": "^1.0.0"
+  }
+}
